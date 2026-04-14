@@ -18,3 +18,7 @@ VS Code
 
 Note-
 This project is developed as part of academic coursework to demonstrate OOP concepts and database integration.
+## Contributors
+- Nidhi Jain
+- Mehek Khandewale
+- Mohul Singh Khatri
